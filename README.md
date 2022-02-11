@@ -1,6 +1,6 @@
 ### Hi there! 👋👋👋
 
-My name is William Esteves :bearded_person: , i'm a Front-End developer in progress. :man_technologist:
+My name is William Esteves :bearded_person:, i'm a Front-End developer in progress.  :man_technologist:
 
 Thanks for visiting my page! 
 
