@@ -8,7 +8,7 @@ Thanks for visiting my page!
 
 ![alt text](https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e478k0v8yt4sys7xr50pvt6nhva1wvw91ufsszbss5w&rid=giphy.gif&ct=g)
 
-· I want to be a professional Front-end developer.
+· :computer: I want to be a professional Front-end developer. :rocket: :rocket: 
 
 Want to contact me? 📫💬
 
