@@ -9,5 +9,5 @@ Thanks for visiting my page!
 
 ![alt text](https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e478k0v8yt4sys7xr50pvt6nhva1wvw91ufsszbss5w&rid=giphy.gif&ct=g)
 
-Want to contact me? 📫💬
+*Want to contact me?* 📫💬
 
