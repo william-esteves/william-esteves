@@ -26,7 +26,7 @@ Thanks for visiting my page!
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=william-esteves&layout=compact)](https://github.com/william-esteves/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=william-esteves&repo=github-readme-stats)](https://github.com/william-esteves/github-readme-stats)
+
 
 
 
