@@ -11,10 +11,10 @@ Se você tiver alguma pergunta, sugestão ou quiser colaborar em algum projeto, 
 
 <b>Email</b>: contato@williamesteves.tech <br>
 <b>LinkedIn</b>: https://www.linkedin.com/in/williamesteves/
-# 
-<a href="https://twitter.com/_williamesteves">![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
-<a href="https://t.me/william_estevez">![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a> 
-<a href="https://www.linkedin.com/in/williamesteves/">![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a> 
+ 
+
+
+
 
 
 
