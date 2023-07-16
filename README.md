@@ -1,24 +1,17 @@
-## Hi there! 👋👋👋
-<br>My name is __`William Esteves`__ :man_technologist:<br>
-I'm a __Front-End developer__ in progress.  :rocket: :rocket: :rocket:
+# Bem-vindo ao repositório de <strong>William Esteves</strong>
 
-![alt text](https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e478k0v8yt4sys7xr50pvt6nhva1wvw91ufsszbss5w&rid=giphy.gif&ct=g)
+Olá! Eu sou o Will e este é o meu repositório no GitHub. Sou formado em Análise e Desenvolvimento de Sistemas e atualmente sou Bacharel em Engenharia de Computação pela faculdade Univesp. Tenho conhecimentos básicos em Front-end e estou sempre buscando aprender e aprimorar minhas habilidades.
 
-
-Thanks for visiting my page! 
+### Sobre mim
+Sou um entusiasta da tecnologia e apaixonado por desenvolvimento de software. Durante minha formação em Análise e Desenvolvimento de Sistemas, adquiri conhecimentos sólidos em diversas áreas, incluindo programação, banco de dados e desenvolvimento web. Atualmente, estou me dedicando à Engenharia de Computação para expandir ainda mais meus conhecimentos e habilidades. <br><br>
 
 
-· 🌱 I'm currently learning HTML, CSS,  JavaScript.<br>
-· :computer: I want to be a `professional Front-end developer`. <br><br>
+### Contato
+Se você tiver alguma pergunta, sugestão ou quiser colaborar em algum projeto, sinta-se à vontade para entrar em contato comigo. Você pode me encontrar através dos seguintes meios:
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=william-esteves&layout=compact)](https://github.com/william-esteves/github-readme-stats)
-
-
+<b>Email</b>: contato@williamesteves.tech <br>
+<b>LinkedIn</b>: https://www.linkedin.com/in/williamesteves/
 # 
-*Want to contact me?* 📫💬
-
 <a href="https://twitter.com/_williamesteves">![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
 <a href="https://t.me/william_estevez">![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a> 
 <a href="https://www.linkedin.com/in/williamesteves/">![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a> 
