@@ -1,4 +1,4 @@
-# Bem-vindo ao repositório de <strong>William Esteves</strong>
+<img src="https://i.imgur.com/lJd7yZy.png">
 
 Olá! Eu sou o Will e este é o meu repositório no GitHub. Sou formado em Análise e Desenvolvimento de Sistemas e atualmente sou Bacharel em Engenharia de Computação pela faculdade Univesp. Tenho conhecimentos básicos em Front-end e estou sempre buscando aprender e aprimorar minhas habilidades.
 
