@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/PFnNAQ4.png">
+<img src="https://i.imgur.com/3xbXLDq.png">
 
 Olá! Eu sou o Will e este é o meu repositório no GitHub. Sou formado em Análise e Desenvolvimento de Sistemas e atualmente sou Bacharel em Engenharia de Computação pela faculdade Univesp. Tenho conhecimentos básicos em Front-end e estou sempre buscando aprender e aprimorar minhas habilidades.
 
